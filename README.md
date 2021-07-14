@@ -6,7 +6,7 @@ We are a nightmare,
 We see everything,
 We know everything,
 Nobody is safe from us,
-Expect us,
+Expect us.
 <!---
 We are a nightmare
 We see everything
